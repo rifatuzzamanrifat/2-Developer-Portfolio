@@ -58,7 +58,8 @@ h1 {
 }
 footer p {
   text-align: center;
-  margin-bottom: 80px;
+  padding: 100px;
+  margin: 0;
 }
 .ex {
   text-align: center;
