@@ -10,11 +10,11 @@ h1 {
 }
 .flexible {
   display: flex;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 .first-half {
   width: 40%;
-  padding-left: 5%;
+  padding-left: 10%;
 }
 .first-half img {
   width: 70%;
